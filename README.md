@@ -13,4 +13,19 @@ How to work to
 - git stash pop - grazina stashintus failus
 - git log --oneline - matysime visus pakeitimus su komitu numeriias bei trumpa informacija apie juos
 
+
+
+- ssh key
+
+- ssh-keygen -t ed25519 -C "your_email@example.com"
+- eval "$(ssh-agent -s)"
+- Agent pid 59566
+- cat .ssh/id_rsa.pub
+
+
+
+- ssh-keygen -t rsa -C "MyEmailAddress" -f ~/.ssh/id_rsa -P ""
+
+
+
 -adding html and css file
