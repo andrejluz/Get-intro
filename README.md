@@ -30,3 +30,9 @@ How to work to
 
 
 -adding html and css file
+
+
+uzdaryti taba narsykleje - Ctrl + W
+atidaryti uzdaryta. paskutini langa - Ctrl + shift + T
+perkrauti narsykle - Ctrl + R
+isvalyti narsykles terminala - Ctrl + L
